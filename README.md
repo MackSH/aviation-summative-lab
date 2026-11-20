@@ -181,6 +181,6 @@ jupyter notebook
  
 ## Auteur
  
-**[Votre nom]**
-[LinkedIn](https://www.linkedin.com/in/votre-profil) · [GitHub](https://github.com/votre-compte)
+**Mackenson JOSEPH**
+[LinkedIn](https://www.linkedin.com/in/macksh)
  
